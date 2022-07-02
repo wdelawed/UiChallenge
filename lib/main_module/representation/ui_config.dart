@@ -54,8 +54,8 @@ const kSelectPlangradient = LinearGradient(
 );
 
 final kStickergradient = LinearGradient(
-  begin: const Alignment(-.5, -1.5),
-  end: const Alignment(1.1, 1.2),
+  end: const Alignment(-.5, -1.5),
+  begin: const Alignment(1.1, 1.2),
   colors: [
     const Color(0xffF5B3C3),
     const Color(0xffDD0539).withOpacity(.86),
